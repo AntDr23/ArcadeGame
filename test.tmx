@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="40" height="40" tilewidth="70" tileheight="70" infinite="0" nextlayerid="4" nextobjectid="1">
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="40" height="40" tilewidth="70" tileheight="70" infinite="0" nextlayerid="5" nextobjectid="1">
  <tileset firstgid="1" source="aaa.tsx"/>
  <tileset firstgid="157" source="a.tsx"/>
+ <layer id="4" name="collision" width="40" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztl0EOgDAIBPttf288eGnAUmAR407SCyZlpDQpYxBCCCHkSFool8x9M5yQWHNU+Tzl9n6vYOXXAc2Dfja0PuvQfzdfqKEU6+7XBalWnfwu6BdjPmOUX+SdUeXnzYH0k2q2W0O0nxa3eKLux07+1T/MsQw8PWaZH6J+6Ld3hh+SjDkKScSvgrdnbPJvTh52PXM=
+  </data>
+ </layer>
  <layer id="1" name="walls" width="40" height="40">
   <data encoding="base64" compression="zlib">
    eJztl0EOgDAIBPt5/208eGnAUmAR407SCyZlpDQpYxBCCCHkSFool8x9M5yQWHNU+Tzl9n6vYOXXAc2Dfja0PuvQfzdfqKEU6+7XBalWnfwu6BdjPmOUX+SdUeXnzYH0k2q2W0O0nxa3eKLux07+1T/MsQw8PWaZH6J+6Ld3hh+SjDkKScSvgrdnbPJvTmkJQ4s=
