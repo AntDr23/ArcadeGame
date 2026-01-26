@@ -4,18 +4,18 @@
  <tileset firstgid="157" source="a.tsx"/>
  <layer id="4" name="collision" width="40" height="40">
   <data encoding="base64" compression="zlib">
-   eJztl0EOgDAIBPttf288eGnAUmAR407SCyZlpDQpYxBCCCHkSFool8x9M5yQWHNU+Tzl9n6vYOXXAc2Dfja0PuvQfzdfqKEU6+7XBalWnfwu6BdjPmOUX+SdUeXnzYH0k2q2W0O0nxa3eKLux07+1T/MsQw8PWaZH6J+6Ld3hh+SjDkKScSvgrdnbPJvTh52PXM=
+   eJztllEOwCAIQ732br8LOKSlisn6kv1AUjoi6BjGGGOMMaaLh/xO+qlqqH0pUf6r0sdMF62l6lekM4tn6kZ66JlncqwmGl/lItC+r7SYXEb36wygOkyO1Vb7q+xqxF/XnZCJdcHuoFOoZngXf/C3c1Yq/rrmN5Nj6qjfKNXeVN7WyP5m7pNKv9CaTB9u2qHGqHgBP4NO8A==
   </data>
  </layer>
  <layer id="1" name="walls" width="40" height="40">
   <data encoding="base64" compression="zlib">
-   eJztl0EOgDAIBPt5/208eGnAUmAR407SCyZlpDQpYxBCCCHkSFool8x9M5yQWHNU+Tzl9n6vYOXXAc2Dfja0PuvQfzdfqKEU6+7XBalWnfwu6BdjPmOUX+SdUeXnzYH0k2q2W0O0nxa3eKLux07+1T/MsQw8PWaZH6J+6Ld3hh+SjDkKScSvgrdnbPJvTmkJQ4s=
+   eJztll0OwCAIg7387r0L+ENLFbP1S/YiS6lsoK0ZY4wxxpgqHvI56SerofalRLlXpY+eLppLVa+ZTm89knf0DvPPMzFWE11fxWagdV9pMbGI7ug7ojpMjNVW+8vMasRf1ZkQWauCnUGnUPXwLv7gb2evZPxV9W8kxuRR31GytcncrZH5zZwnmXqhOZk6VM7Qm7yYb/ECeyJaZw==
   </data>
  </layer>
  <objectgroup id="2" name="bomb"/>
  <layer id="3" name="bombs" width="40" height="40">
   <data encoding="base64" compression="zlib">
-   eJzt0bENADAIwDD+f4+HurMjCrIviJQIAAAA4IqcDqCdx3vVd17e4yn85QFytwQg
+   eJztz8EJACAQA8H03941ZAeicnA+ZiD/TQIAAACQ1HTARuXfvs62OtxEW6eXLwBwawEAjxB9
   </data>
  </layer>
 </map>
