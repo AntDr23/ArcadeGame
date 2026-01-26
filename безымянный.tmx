@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="30" height="30" tilewidth="64" tileheight="64" infinite="1" nextlayerid="5" nextobjectid="1">
+ <tileset firstgid="1" source="блок.tsx"/>
+ <tileset firstgid="2" source="пила.tsx"/>
+ <tileset firstgid="3" source="platformPack_tile043.tsx"/>
+ <layer id="1" name="Слой тайлов 1" width="30" height="30" offsetx="1.42109e-14" offsety="64">
+  <data encoding="base64" compression="zlib"/>
+ </layer>
+ <layer id="4" name="walls" width="30" height="30" offsetx="-1710" offsety="-44">
+  <data encoding="base64" compression="zlib">
+   <chunk x="-16" y="0" width="16" height="16">
+   eJxjYBgFo2BwAkYi8CigDAAAD/QACg==
+  </chunk>
+   <chunk x="0" y="0" width="16" height="16">
+   eJxjYBgFo2DgACOFeBRQBgAaIAAR
+  </chunk>
+   <chunk x="16" y="0" width="16" height="16">
+   eJxjYBgFo2DgACOFeBRQBgAaIAAR
+  </chunk>
+   <chunk x="32" y="0" width="16" height="16">
+   eJxjYBgFo2DgACMUj4KBAQAG/AAD
+  </chunk>
+  </data>
+ </layer>
+ <layer id="3" name="spikes" width="30" height="30" offsetx="82" offsety="915.689">
+  <data encoding="base64" compression="zlib">
+   <chunk x="-32" y="-32" width="16" height="16">
+   eJxjYBgFo2AUDGfABMXYAAAEaAAF
+  </chunk>
+   <chunk x="-16" y="-32" width="16" height="16">
+   eJxjYBgFo2AUDFXABMXkAgAE+AAF
+  </chunk>
+   <chunk x="-32" y="-16" width="16" height="16">
+   eJxjYCAeMBHgk2IGOXopsXe46Cc1/JgZGBqQMbocEfoPIGNku2F8WgJmNIxm/yigEAAAm+AGhg==
+  </chunk>
+   <chunk x="-16" y="-16" width="16" height="16">
+   eJxjYBgFQxkwMzA0wDCZ+g/AMHVdRrT9cDwK6A8A/X0D3A==
+  </chunk>
+  </data>
+ </layer>
+</map>
