@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="50" height="50" tilewidth="70" tileheight="70" infinite="0" nextlayerid="9" nextobjectid="1">
+ <tileset firstgid="1" source="tiles_spritesheet.tsx"/>
+ <tileset firstgid="157" source="sheet.tsx"/>
+ <tileset firstgid="235" source="items_spritesheet.tsx"/>
+ <layer id="1" name="collision" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztmEsOgCAMRLk2tzcsTIxRU+hvivMSl5A+BrTYW2t9k6c69MCCHljQA4sZD+R3dVZN1t8wxLVd4epR+Tt/r7eiw8C75qiMK679ExKPCudGWheywyC6Nq9skdd4BnpgYX2fz/pPgJQHPWx7Zou9oa0BAXrEeEjfTxkeHv0Feh5SPDwy+nTmEechOU+RHtZ90X1uzVjuq/f5VrJC8tBAjxwP3qO+x87cUz1BykOzX5A8NNBjPnevnuScXzP2b3l4Q4/9PHZ4Dv0/opk=
+  </data>
+ </layer>
+ <layer id="2" name="walls" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztmdENgzAMRP3doTpAF+g6XYNtK4RQUasIB8f2Ob0nWeIHlJeLEwSLiCyTVHXogQU9sKAHFj0ed5HXWo/tGoqsPI5zMmJeZlxXo+coku88noeqhPe6isp4xv5oUaFvtHmg9030uvLK9p/6owKzedw6q0Xvc7TP1XogYBkHPT6M2kezPUZBjxiP/Qw/O8szPDzeL9Dz0OLhkfGezjziPDT9FOmh2XcsY7Hcy3X1iyUrJA8L9MjxaO0V1TxaeHpEnutIeVjOFyQPC/S49n/Qq2eYBz08oMf177seZRnHeu8bpQSXRw==
+  </data>
+ </layer>
+ <layer id="3" name="door opened" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztzkEJAAAIBDATGcD+wcwgCPfZEqwKAAAAAAAAAACAi04Hnkw68GwBn4AAaQ==
+  </data>
+ </layer>
+ <layer id="4" name="door closed" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztzkEJAAAIBDDTGcD+YcwgCPfZEqwKAAAAAAAAAACAi04Hnkw68GwB2UAAmQ==
+  </data>
+ </layer>
+ <layer id="8" name="decor" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt2DEKgDAMAECLDg5ufrh/1gdYN9GqiIqod9ChSQOBLCVFwVt16fRPN8FlzPPd0uximmG8uwYAgO9rw/KPmIsdUYV8vFmJAwAAAABw3tputg2795irqyfvyo397pirZ/k/7YMH2uwLvw==
+  </data>
+ </layer>
+ <layer id="5" name="coins" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt1VEKgCAQBUA7Rfe/aZ9GSJkUrjoDfkkQu2/XlIA/7Fs+0OKcITnK1OSZGs1Pj7+npnO6vqX6yyhK2W3JcM23ZoQa8kEPkd/xiP80M7WeW7R5irp3KNMrerEr2q1aM5nhLZmBcd3Nb5S7VXbMAesmCak=
+  </data>
+ </layer>
+ <layer id="6" name="diamonds" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt2KERADAIA0AYovuvisRyFWD+J4iIyCUCmHp5nQAAgE32H9t0DgAAAACAH/7lVpBFAFk=
+  </data>
+ </layer>
+ <layer id="7" name="keys" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztzgENAAAIA6Dbwf5ZjfHNQQISAOCLnfYAAAAAAAAAAHoOtsUAFg==
+  </data>
+ </layer>
+</map>
