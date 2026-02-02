@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="50" height="50" tilewidth="70" tileheight="70" infinite="0" nextlayerid="9" nextobjectid="1">
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="50" height="50" tilewidth="70" tileheight="70" infinite="0" nextlayerid="10" nextobjectid="1">
  <tileset firstgid="1" source="tiles_spritesheet.tsx"/>
  <tileset firstgid="157" source="sheet.tsx"/>
  <tileset firstgid="235" source="items_spritesheet.tsx"/>
@@ -8,9 +8,14 @@
    eJztmEsOgCAMRLk2tzcsTIxRU+hvivMSl5A+BrTYW2t9k6c69MCCHljQA4sZD+R3dVZN1t8wxLVd4epR+Tt/r7eiw8C75qiMK679ExKPCudGWheywyC6Nq9skdd4BnpgYX2fz/pPgJQHPWx7Zou9oa0BAXrEeEjfTxkeHv0Feh5SPDwy+nTmEechOU+RHtZ90X1uzVjuq/f5VrJC8tBAjxwP3qO+x87cUz1BykOzX5A8NNBjPnevnuScXzP2b3l4Q4/9PHZ4Dv0/opk=
   </data>
  </layer>
+ <layer id="9" name="back" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt0dEJACAMQ8Hsv0KXdQhBI17h/vPoJJnHpWADAAAAAAB/S8EGHTpa6eiiA/+As1KwQYeOVjq67dzN3Qt999cz
+  </data>
+ </layer>
  <layer id="2" name="walls" width="50" height="50">
   <data encoding="base64" compression="zlib">
-   eJztmdENgzAMRP3doTpAF+g6XYNtK4RQUasIB8f2Ob0nWeIHlJeLEwSLiCyTVHXogQU9sKAHFj0ed5HXWo/tGoqsPI5zMmJeZlxXo+coku88noeqhPe6isp4xv5oUaFvtHmg9030uvLK9p/6owKzedw6q0Xvc7TP1XogYBkHPT6M2kezPUZBjxiP/Qw/O8szPDzeL9Dz0OLhkfGezjziPDT9FOmh2XcsY7Hcy3X1iyUrJA8L9MjxaO0V1TxaeHpEnutIeVjOFyQPC/S49n/Qq2eYBz08oMf177seZRnHeu8bpQSXRw==
+   eJztmcsKgzAQRbPuV7sVpHv/thUKDamBSead3gOzVHK8M/F1llLORSo78IgFPGIBj1iMeBzv2j/1VFvRHF55HEX2uqzYV9LXyJI2j62qTGj3lVXGK85HjwxzQ81jK7HnxrqvtLL9p/nIwGoej8HqMXoe6nmpHhHgrAMeX6T2UW8PKeBh41H3XV1tD3p4tGuTeL6IngcVDQ+P53TkYedBmSdLj7u9R/IdgnMs+uoXzn4cyYMDPHw8entFNo8emh6W9/VIeXDuL5E8OMBj/v+gxswgD3hoAI/577saxVnHdewLN2ueRQ==
   </data>
  </layer>
  <layer id="3" name="door opened" width="50" height="50">
