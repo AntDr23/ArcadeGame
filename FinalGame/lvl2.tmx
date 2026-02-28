@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="60" height="50" tilewidth="70" tileheight="70" infinite="0" nextlayerid="12" nextobjectid="1">
+ <tileset firstgid="1" source="../map1/tiles_spritesheet.tsx"/>
+ <tileset firstgid="157" source="../map1/sheet.tsx"/>
+ <tileset firstgid="223" source="../map1/items_spritesheet.tsx"/>
+ <tileset firstgid="287" source="tiles_spritesheet.tsx"/>
+ <layer id="1" name="collision" width="60" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt2c0ORDAUhuG6jN62K5YuJFiIVh3n+3kTm1mY86hhQi2lVLFNJXu5s5c7e7lT9fbcn5Hv6U9mQzPdpfY/TMF47Ctr1uOlsq57StaWkrUVYc10TDPMEJmStWUvd/bGfm/0ddvry5293Nn7f9dr9rrM37dK9nJnL3fI3pFnq8jekTJ4I5/3Z/BGNtOL8F4m0ywR2Xv+PPO5ORL6/L3Zy92IF/n3jDbv21S9StsGIx8hMg==
+  </data>
+ </layer>
+ <layer id="3" name="back" width="60" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt0UEKgDAMRNG5/w2kl3VV0FIFS03S5gfeQil1xhRJpVGnfT/iaWbd9eXMrE6ryNY3I3aMXShABmC2o8M7k3Xfnf9Bho6VEnV92693Jsu+3nks+3pn+ZOavt55LPfrncFyvwDWowAZAAAAAMSlABkAAHcKkIG+9AWAEVroG9epzye9qAKw
+  </data>
+ </layer>
+ <layer id="2" name="walls" width="60" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztmcEKgCAQRO3a9/YbXbr1t+EhkKgE0XV2dh7sJSp4zK4inimlM1hFQb7cyJcb+XIT1XetVEnt3bdvUPjLdy+q9CifeyNqP0dhlC/qHI/MF3G+1c/cWPgi7c1W+aLs2epnbuTLzSzfWWeqmfnuyX7dVj9zI19uEH2fa/ax9Ps3ou9I5MuNfLnx7Ntyv+HZtwUEX8t7KATfzPOsNOrM1NPXw31h73ytcmoFpZ+t+PL10JstKF9u5FvH8zwrX25u3y1IZdcLELyKlA==
+  </data>
+ </layer>
+ <layer id="4" name="spikes" width="60" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt2T0KACAIBlDvf84O0loN4dIfvQdubip8YAQAwHmlKfiN3QcA2Ev+AgCAM0r4B7zAfO7nlgAA1pplrUwWG3syRa8C4Vcg9Q==
+  </data>
+ </layer>
+ <layer id="7" name="door opened" width="60" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztzsEAAAAIBLCIAsgfLIu6x0awKgDI0t+BY/MdAAAAAAAAAAAAgBALVRAAaQ==
+  </data>
+ </layer>
+ <layer id="8" name="door closed" width="60" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztzsEAAAAIBLDoAsgfJou6x0awKgDI0t+BY/MdAAAAAAAAAAAAgBALy7kAmQ==
+  </data>
+ </layer>
+ <layer id="9" name="decor" width="60" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt2qEOgCAQBmBNvv8TatOmTaNEdTPghufw+7YbCfgvEbimAQC+omvPa5YnewAgSJ9qiA5RmrcZfm9MNUWHAIDKbNEBfmhOtUSHAKpw9/exvhsDAACozKM5qxyHea7Sd13PL97bh+1tbAeg
+  </data>
+ </layer>
+ <layer id="5" name="coins" width="60" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt2sENACEIBEDvbf/9XgPk9MkeM4kFrIYQgmsBAN3t53yAfGoZ8unNAFnMVQAAUJu2h5iWN9m0N6ryfmWfci/0ZZcN/6SeSXXz30rv6usFlZsCxQ==
+  </data>
+ </layer>
+ <layer id="10" name="keys" width="60" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztzkEBAAAEBLDTQP+0WuCxJVgCAAAAAAAAALCv63oAAADANwMf2gAS
+  </data>
+ </layer>
+</map>
